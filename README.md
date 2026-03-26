@@ -24,7 +24,7 @@ A modern and stylish watch store website built using HTML and CSS.
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+![Home Page](home.png)
 
 ## 👩‍💻 Author
 
