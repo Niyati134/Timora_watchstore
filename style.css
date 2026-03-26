@@ -1,0 +1,222 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#f8fafc;
+}
+
+
+/* 🔥 Premium Navbar Styling */
+
+.navbar {
+    background-color: #000 !important;
+    transition: 0.3s ease-in-out;
+}
+
+/* 🔥 Luxury Brand Font */
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    letter-spacing: 3px;
+    color: gold !important;
+    transition: 0.3s;
+}
+
+.navbar-brand:hover {
+    color: white !important;
+}
+
+.brand-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    letter-spacing: 4px;
+    color: gold;
+}
+
+.nav-link {
+    color: #fff !important;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: gold !important;
+    transform: scale(1.05);
+}
+
+/* 🔥 Minimal Apple-Style Logo */
+
+.logo-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: 6px;
+    background: linear-gradient(90deg, #ffffff, #d4af37, #ffffff);
+    background-size: 200% auto;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: shine 4s linear infinite;
+    transition: 0.3s;
+}
+
+/* ✨ Smooth Shine Animation */
+@keyframes shine {
+    to {
+        background-position: 200% center;
+    }
+}
+
+/* Slight Hover Glow */
+.logo-text:hover {
+    transform: scale(1.05);
+    text-shadow: 0 0 15px rgba(212, 175, 55, 0.7);
+}
+
+.shadow-lg {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6) !important;
+}
+
+.price{
+    color:#16a34a;
+    font-size:18px;
+    font-weight:600;
+}
+
+.card{
+    border:none;
+    border-radius:12px;
+    overflow:hidden;
+    transition:0.3s;
+}
+
+
+.card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 20px 40px rgba(0,0,0,0.12);
+    transform:scale(1.08);
+}
+
+.card img{
+    height:250px;
+    object-fit:cover;
+    transition:0.4s;
+}
+
+
+
+section{
+    padding:100px 0;
+    scroll-margin-top:80px;
+}
+button{
+    transition:0.3s;
+}
+
+button:hover{
+    transform:scale(1.05);
+}
+.hero{
+    height:100vh;
+    background:url('../images/home3.jpg') center/cover no-repeat;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position:relative;
+}
+
+/* Dark premium overlay */
+.hero::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    background:rgba(0,0,0,0.55);
+}
+
+.hero-content{
+    position:relative;
+    color:white;
+    max-width:700px;
+}
+
+.hero h1{
+    font-size:64px;
+    font-weight:700;
+}
+
+.hero p{
+    font-size:20px;
+}
+
+
+#OrderNow .form-control,
+#OrderNow .form-select{
+    padding:12px;
+    border-radius:8px;
+}
+
+#OrderNow button{
+    padding:12px;
+    font-weight:600;
+}
+#FindUs i{
+    color:#111;
+}
+
+#FindUs p{
+    font-size:16px;
+}
+
+#FindUs h3{
+    letter-spacing:0.5px;
+}
+#why-us{
+    background:#ffffff;
+}
+
+#why-us i{
+    color:#0f172a;
+}
+
+#why-us .shadow-sm{
+    transition:0.3s;
+}
+
+#why-us .shadow-sm:hover{
+    transform:translateY(-8px);
+    box-shadow:0 20px 40px rgba(0,0,0,0.08) !important;
+}
+html{
+    scroll-behavior:smooth;
+}
+
+.footer{
+    background:#0f172a;
+    padding:60px 0 20px;
+}
+
+.footer a{
+    color:#cbd5e1;
+    text-decoration:none;
+    transition:0.3s;
+}
+
+.footer a:hover{
+    color:#38bdf8;
+    padding-left:5px;
+}
+
+.footer i{
+    color:#cbd5e1;
+    font-size:20px;
+    transition:0.3s;
+    cursor:pointer;
+}
+
+.footer i:hover{
+    color:#38bdf8;
+}
