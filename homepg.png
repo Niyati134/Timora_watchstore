@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)https://niyati134.github.io/Timora_watchstore/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Timeless Watches</title>
+
+<link href="./homepg_files/css2" rel="stylesheet">
+
+<link href="./homepg_files/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="./homepg_files/all.min.css">
+
+<link href="./homepg_files/css2(1)" rel="stylesheet">
+
+<link href="./homepg_files/css2(2)" rel="stylesheet">
+
+<link rel="stylesheet" href="./homepg_files/style.css">
+</head>
+
+
+<body style="font-family:Poppins;">
+
+
+<!-- 🔥 PREMIUM NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-top shadow-lg py-3">
+    <div class="container">
+
+        <!-- Brand Logo -->
+        <a class="navbar-brand" href="https://niyati134.github.io/Timora_watchstore/#">
+    <span class="logo-text">TIMORA</span>
+</a>
+
+        <!-- Toggle Button -->
+        <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Menu Items -->
+        <div class="collapse navbar-collapse" id="nav">
+            <ul class="navbar-nav ms-auto align-items-center">
+
+                <li class="nav-item mx-3">
+                    <a class="nav-link fw-semibold text-uppercase" href="https://niyati134.github.io/Timora_watchstore/#BestSellers">
+                        Best Sellers
+                    </a>
+                </li>
+
+                <li class="nav-item mx-3">
+                    <a class="nav-link fw-semibold text-uppercase" href="https://niyati134.github.io/Timora_watchstore/#LuxuryCollection">
+                        Luxury Collection
+                    </a>
+                </li>
+
+                <li class="nav-item mx-3">
+                    <a class="nav-link fw-semibold text-uppercase" href="https://niyati134.github.io/Timora_watchstore/#OrderNow">
+                        Order Now
+                    </a>
+                </li>
+
+                <li class="nav-item mx-3">
+                    <a class="nav-link fw-semibold text-uppercase" href="https://niyati134.github.io/Timora_watchstore/#FindUs">
+                        Find Us
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+
+    </div>
+</nav>
+
+<!-- ✅ HERO SECTION -->
+<section class="hero">
+    <div class="hero-content text-center">
+        <h1>Luxury That Defines Time</h1>
+        <p>Discover watches crafted for elegance and precision.</p>
+        <a href="https://niyati134.github.io/Timora_watchstore/#BestSellers" class="btn btn-light btn-lg mt-3">
+            Explore Collection
+        </a>
+    </div>
+</section>
+
+
+
+
+<!-- ✅ CAROUSEL -->
+<div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+
+
+<button class="carousel-control-prev" data-bs-target="#carouselExample" data-bs-slide="prev">
+<span class="carousel-control-prev-icon"></span>
+</button>
+
+<button class="carousel-control-next" data-bs-target="#carouselExample" data-bs-slide="next">
+<span class="carousel-control-next-icon"></span>
+</button>
+
+</div>
+
+
+
+<section id="why-us">
+    <div class="container">
+        <h2 class="text-center fw-bold mb-5">Why Choose Us</h2>
+
+        <div class="row text-center">
+
+            <div class="col-lg-4">
+                <div class="p-4 shadow-sm rounded bg-white h-100">
+                    <i class="fa fa-diamond fa-2x mb-3"></i>
+                    <h5 class="fw-bold">Premium Quality</h5>
+                    <p>Every watch is crafted with precision, elegance, and unmatched durability.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="p-4 shadow-sm rounded bg-white h-100">
+                    <i class="fa fa-truck fa-2x mb-3"></i>
+                    <h5 class="fw-bold">Fast &amp; Secure Delivery</h5>
+                    <p>We ensure safe packaging and quick delivery right to your doorstep.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="p-4 shadow-sm rounded bg-white h-100">
+                    <i class="fa fa-shield fa-2x mb-3"></i>
+                    <h5 class="fw-bold">2 Year Warranty</h5>
+                    <p>Shop confidently with our extended warranty on all luxury watches.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+<!-- ✅ BEST SELLERS -->
+<section id="BestSellers" class="py-5">
+<div class="container">
+<h2 class="text-center fw-bold mb-5">Best Sellers</h2>
+<div class="row g-4">
+
+            <!-- Card 1 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100">
+                    <img src="./homepg_files/Titan w.jpg" class="card-img-top" alt="Fossil Jacqueline Watch">
+                    <div class="card-body">
+                        <h5 class="card-title">Fossil Jacqueline Rose Gold</h5>
+                        <p class="price">₹6,500 – ₹8,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100">
+                    <img src="./homepg_files/2.jpg" class="card-img-top" alt="Emporio Armani Watch">
+                    <div class="card-body">
+                        <h5 class="card-title">Emporio Armani Gianni T-Bar</h5>
+                        <p class="price">₹6,500 – ₹8,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100">
+                    <img src="./homepg_files/3.jpg" class="card-img-top" alt="Michael Kors Watch">
+                    <div class="card-body">
+                        <h5 class="card-title">Michael Kors Pyper Silver</h5>
+                        <p class="price">₹6,500 – ₹8,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100">
+                    <img src="./homepg_files/4.jpg" class="card-img-top" alt="Titan Workwear Watch">
+                    <div class="card-body">
+                        <h5 class="card-title">Titan Workwear Black Dial</h5>
+                        <p class="price">₹6,500 – ₹8,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100">
+                    <img src="./homepg_files/M1.jpg" class="card-img-top" alt="Titan Multifunction Watch">
+                    <div class="card-body">
+                        <h5 class="card-title">Titan Multifunction Black</h5>
+                        <p class="price">₹6,000 – ₹7,200</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100">
+                    <img src="./homepg_files/M2.jpg" class="card-img-top" alt="Geneva Classic Watch">
+                    <div class="card-body">
+                        <h5 class="card-title">Geneva Classic Roman</h5>
+                        <p class="price">₹899 – ₹1,499</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 7 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100">
+                    <img src="./homepg_files/M3.jpg" class="card-img-top" alt="Dianpai Automatic Watch">
+                    <div class="card-body">
+                        <h5 class="card-title">Dianpai Automatic Day-Date</h5>
+                        <p class="price">₹699 – ₹1,199</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 8 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100">
+                    <img src="./homepg_files/M4.jpg" class="card-img-top" alt="Minimalist Arabic Watch">
+                    <div class="card-body">
+                        <h5 class="card-title">Minimalist Arabic Numeral</h5>
+                        <p class="price">₹1,999 – ₹2,499</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<!-- ✅ LUXURY COLLECTION -->
+<section id="LuxuryCollection" class="py-5 bg-light">
+<div class="container">
+<h2 class="text-center fw-bold mb-5">Luxury Collection</h2>
+<div class="row g-4">
+
+     <div class="col-lg-3 col-md-6">
+                <div class="card h-100 shadow-sm">
+                    <img src="./homepg_files/11.jpg" class="card-img-top" alt="Bvlgari Watch">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Bvlgari</h5>
+                        <p class="price">₹7,50,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100 shadow-sm">
+                    <img src="./homepg_files/22.jpg" class="card-img-top" alt="Oris Watch">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Oris</h5>
+                        <p class="price">₹5,10,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100 shadow-sm">
+                    <img src="./homepg_files/33.jpg" class="card-img-top" alt="Corum Watch">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Corum</h5>
+                        <p class="price">₹12,06,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100 shadow-sm">
+                    <img src="./homepg_files/44.jpg" class="card-img-top" alt="Rolex Watch">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Rolex</h5>
+                        <p class="price">₹40,00,000</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row pt-5 g-4">
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100 shadow-sm">
+                    <img src="./homepg_files/55.jpg" class="card-img-top" alt="Bell &amp; Ross Watch">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Bell &amp; Ross</h5>
+                        <p class="price">₹4,37,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100 shadow-sm">
+                    <img src="./homepg_files/66.jpg" class="card-img-top" alt="Alpina Watch">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Alpina</h5>
+                        <p class="price">₹1,77,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100 shadow-sm">
+                    <img src="./homepg_files/77.jpeg" class="card-img-top" alt="Tudor Watch">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Tudor</h5>
+                        <p class="price">₹3,75,000</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card h-100 shadow-sm">
+                    <img src="./homepg_files/88.jpeg" class="card-img-top" alt="Bovet Watch">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Bovet</h5>
+                        <p class="price">₹71,10,000</p>
+                    </div>
+                </div>
+            </div>
+
+</div>
+</div>
+</section>
+
+
+<!-- ✅ ORDER NOW -->
+<section id="OrderNow" class="py-5">
+
+<h2 class="text-center fw-bold mb-5">Order Now</h2>
+
+<div class="container">
+<div class="row">
+<div class="col-lg-5 mx-auto">
+
+<form class="shadow p-4 rounded-4">
+
+<label class="form-label">Select Watch</label>
+<select class="form-select mb-3">
+<option>Choose a Watch</option>
+<option>Titan Gold – ₹15,999</option>
+<option>Rolex Submariner – ₹1,25,000</option>
+</select>
+
+<input class="form-control mb-3" placeholder="Full Name">
+<input class="form-control mb-3" placeholder="Mobile Number">
+<input class="form-control mb-3" placeholder="Email">
+<textarea class="form-control mb-3" placeholder="Shipping Address"></textarea>
+
+<button class="btn btn-dark w-100">Place Order</button>
+
+</form>
+
+</div>
+</div>
+</div>
+</section>
+
+
+
+<!-- ✅ FIND US -->
+<section id="FindUs" class="py-5 bg-light">
+
+<h2 class="text-center fw-bold mb-5">Find Us</h2>
+
+<div class="container">
+<div class="row align-items-center">
+
+<div class="col-lg-6">
+<h4>Official Rolex Retailer</h4>
+
+<p>
+189 Turner Road,<br>
+Bandra Mumbai,<br>
+Maharashtra, India
+</p>
+
+<p><i class="fa fa-phone"></i> +91 75060 20900</p>
+<p><i class="fa fa-instagram"></i> @rolexboutiquetimeavenue</p>
+
+</div>
+
+<div class="col-lg-6">
+<div class="ratio ratio-16x9">
+<iframe src="./homepg_files/embed.html" style="border:0;"></iframe>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+
+
+
+<script src="./homepg_files/bootstrap.bundle.min.js.download"></script>
+
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+
+            <!-- Brand -->
+            <div class="col-lg-4 mb-4">
+                <h4 class="fw-bold text-white">Timora</h4>
+                <p class="text-light">
+                    Timeless elegance meets modern craftsmanship.  
+                    Discover watches that define your style.
+                </p>
+            </div>
+
+            <!-- Quick Links -->
+            <div class="col-lg-4 mb-4">
+                <h5 class="text-white">Quick Links</h5>
+                <ul class="list-unstyled">
+                    <li><a href="https://niyati134.github.io/Timora_watchstore/##BestSellers">Best Sellers</a></li>
+                    <li><a href="https://niyati134.github.io/Timora_watchstore/#LuxuryCollection">Luxury Collection</a></li>
+                    <li><a href="https://niyati134.github.io/Timora_watchstore/#OrderNow">Order Now</a></li>
+                    <li><a href="https://niyati134.github.io/Timora_watchstore/#FindUs">Find Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Social -->
+            <div class="col-lg-4 mb-4">
+                <h5 class="text-white">Follow Us</h5>
+                <i class="fa fa-instagram me-3"></i>
+                <i class="fa fa-facebook me-3"></i>
+                <i class="fa fa-twitter"></i>
+            </div>
+
+        </div>
+
+        <hr class="bg-light">
+
+        <p class="text-center text-light mb-0">
+            © 2026 Timora. All Rights Reserved.
+        </p>
+    </div>
+</footer>
+
+
+
+</body></html>
